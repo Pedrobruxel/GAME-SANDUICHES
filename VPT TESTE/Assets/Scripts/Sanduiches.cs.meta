@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: edc52219b0cda214da4d09dd849fd57b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ingredientes: {instanceID: 0}
+  - ingrediente1: {instanceID: 0}
+  - ingrediente2: {instanceID: 0}
+  - ingrediente3: {instanceID: 0}
+  - ingrediente4: {instanceID: 0}
+  - ingrediente5: {instanceID: 0}
+  - sanduiche: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
